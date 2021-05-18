@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42a997195373682255aa797a14d1ddba",
+    "revision": "f5fa650abc2e1336769e8a4075b1d393",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "ab78ab42ca953fb7d8f3",
-    "url": "/developerFolio/static/css/3.add739dd.chunk.css"
+    "revision": "082b22abc90e67b32040",
+    "url": "/developerFolio/static/css/3.87d3606c.chunk.css"
   },
   {
-    "revision": "712c8608df710db38673",
-    "url": "/developerFolio/static/css/4.cb06f56c.chunk.css"
+    "revision": "0ae2b30c4ea9fbf4233c",
+    "url": "/developerFolio/static/css/4.e881c8d1.chunk.css"
   },
   {
-    "revision": "556c5f3a73afe788f6ad",
-    "url": "/developerFolio/static/css/main.5800e272.chunk.css"
+    "revision": "29685396e656e2d88a35",
+    "url": "/developerFolio/static/css/main.adfef6fb.chunk.css"
   },
   {
     "revision": "c1d69c1777e2fca5f067",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/2.897ba10d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab78ab42ca953fb7d8f3",
+    "revision": "082b22abc90e67b32040",
     "url": "/developerFolio/static/js/3.87921f34.chunk.js"
   },
   {
-    "revision": "712c8608df710db38673",
+    "revision": "0ae2b30c4ea9fbf4233c",
     "url": "/developerFolio/static/js/4.df494045.chunk.js"
   },
   {
-    "revision": "556c5f3a73afe788f6ad",
-    "url": "/developerFolio/static/js/main.673a384c.chunk.js"
+    "revision": "29685396e656e2d88a35",
+    "url": "/developerFolio/static/js/main.a3fd16a8.chunk.js"
   },
   {
-    "revision": "dfae37ec9548c646a932",
-    "url": "/developerFolio/static/js/runtime-main.f3d77ea0.js"
+    "revision": "5a523d6770a0a0638e04",
+    "url": "/developerFolio/static/js/runtime-main.8bfd9c1e.js"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/datedegreelogo.9b1ee037.png"
   },
   {
-    "revision": "65eda745cdf4a70e1e71082a03975ebc",
-    "url": "/developerFolio/static/media/developerActivity.65eda745.svg"
+    "revision": "e0bc8d8087fe2d5bde78c1b68cdb5a61",
+    "url": "/developerFolio/static/media/developerActivity.e0bc8d80.svg"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "deac117f3896e3aee22988a0603ea2e6",
-    "url": "/developerFolio/static/media/manOnTable.deac117f.svg"
+    "revision": "1fb10d195ef07fd962efaec761170dd6",
+    "url": "/developerFolio/static/media/manOnTable.1fb10d19.svg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/skill.34409398.svg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/developerFolio/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
