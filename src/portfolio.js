@@ -15,7 +15,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with Reactjs / Nodejs / Spring Boot / React Native / Flutter / Android Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "/",
+    "https://drive.google.com/file/d/1qsgDe9MXoJ7_SV-RQFD85dnLRgV3m_Mt/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
